@@ -1,0 +1,69 @@
+btn:
+  home: Trang chủ
+  blog: Post
+  wiki: Wiki
+  topic: Chủ đề
+  notebook: Notebook
+  recent_publish: Gần đây
+  all_wiki: Tất cả sản phẩm
+  category: Category
+  categories: Categories
+  tag: Tag
+  tags: Tags
+  archives: Lưu trữ
+  all_posts: Tất cả bài đăng
+  getting_started: Bắt đầu
+  edit: Chỉnh sửa trang này
+  top: Lên trên
+  comments: Tham gia thảo luận
+
+meta:
+  recent_update: Cập nhật gần đây
+  tag_tree: Tags
+  all_notes: Tất cả ghi chú
+  toc: Mục lục
+  read_next: READ NEXT
+  prev: Trước
+  next: Sau
+  older: Cũ hơn
+  newer: Mới hơn
+  references: Tham chiếu
+  related_posts: Bài đăng liên quan
+  back_to_top: Lên đầu trang
+  more: More
+  created_author: '%s posted on'
+  created: 'Đăng vào'
+  updated: 'Đã cập nhật vào'
+  license: Giấy phép
+  share: Chia sẻ
+  date_suffix:
+    just: vài giây trước
+    min: phút trước
+    hour: giờ trước
+    day: ngày trước
+    month: tháng trước
+
+page:
+  error:
+    what: Không tìm thấy trang
+    why: Địa chỉ có thể được nhập không đúng hoặc địa chỉ đã bị xóa.
+    action: Về Trang chủ
+
+search:
+  search: Tìm kiếm
+  search_in: Tìm kiếm trong %s
+  no_results: Không tìm thấy kết quả!
+
+message:
+  copied: Đã sao chép!
+  theme_switched:
+    light: Đã chuyển sang Chế độ Sáng
+    dark: Đã chuyển sang Chế độ Tối
+    auto: Đã chuyển sang chế độ Tự động
+
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  brackets_l: "("
+  brackets_r: ")"
